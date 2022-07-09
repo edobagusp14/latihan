@@ -1,3 +1,6 @@
 angular js
 vue js
 java script
+laravle
+ionic
+codeigniter
